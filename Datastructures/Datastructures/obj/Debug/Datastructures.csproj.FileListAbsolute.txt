@@ -1,0 +1,7 @@
+c:\users\asehrawat\source\repos\Datastructures\Datastructures\obj\Debug\Datastructures.csprojResolveAssemblyReference.cache
+c:\users\asehrawat\source\repos\Datastructures\Datastructures\obj\Debug\Datastructures.csproj.CoreCompileInputs.cache
+c:\users\asehrawat\source\repos\Datastructures\Datastructures\bin\Debug\Datastructures.exe.config
+c:\users\asehrawat\source\repos\Datastructures\Datastructures\bin\Debug\Datastructures.exe
+c:\users\asehrawat\source\repos\Datastructures\Datastructures\bin\Debug\Datastructures.pdb
+c:\users\asehrawat\source\repos\Datastructures\Datastructures\obj\Debug\Datastructures.exe
+c:\users\asehrawat\source\repos\Datastructures\Datastructures\obj\Debug\Datastructures.pdb
